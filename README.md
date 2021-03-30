@@ -16,4 +16,4 @@ CLIP6 https://youtu.be/Eks1ozWjino
 
 CLIP7 https://youtu.be/_Ed6cs-EMzU
 
-CLIP8
+CLIP8 https://youtu.be/jn2KMjfeBLs
